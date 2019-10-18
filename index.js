@@ -1,5 +1,5 @@
 CLASSES = {
-  0: 'John Howard Van Amringe',
+  0: 'John Howard',
   1: 'Hamilton',
   2: 'The Thinker'
 };
