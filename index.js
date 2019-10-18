@@ -1,7 +1,7 @@
 CLASSES = {
-  0: 'Statue 1',
-  1: 'Statue 2',
-  2: 'Statue 3'
+  0: 'John Howard Van Amringe',
+  1: 'Hamilton',
+  2: 'The Thinker'
 };
 
 const MODEL_PATH =
