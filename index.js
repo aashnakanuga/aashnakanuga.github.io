@@ -6,7 +6,7 @@ CLASSES = {
 
 const MODEL_PATH =
     'model.json';
-
+console.log(MODEL_PATH);
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 3;
 
